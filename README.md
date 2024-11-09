@@ -1,6 +1,6 @@
-# Python Password Generator
+# Python Password Generator 🔑
 
-Password Generator written in Python 2024
+Password Generator written in Python 2024 💻
 
 Following along Pearson's Skill Up With Python series from 2023. Not a direct match to the class, purposely made changes.
 
